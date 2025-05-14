@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { getToken } from './auth';
 
-const API_URL = 'https://react-extended-brain-1.onrender.com/api/v1';
+const API_URL = 'https://react-extended-brain.onrender.com';
 
 // Create axios instance
 const api = axios.create({
